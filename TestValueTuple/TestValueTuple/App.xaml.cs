@@ -13,5 +13,6 @@ namespace TestValueTuple
     /// </summary>
     public partial class App : Application
     {
+        public int AAa => 0;
     }
 }
