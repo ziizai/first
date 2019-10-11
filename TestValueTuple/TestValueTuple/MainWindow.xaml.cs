@@ -31,5 +31,11 @@ namespace TestValueTuple
 
             InitializeComponent();
         }
-    }
+
+        public int Foo()
+        {
+            return 1;
+        }
+
+    }    
 }
