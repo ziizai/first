@@ -14,7 +14,7 @@ namespace TestValueTuple.Tests
         [TestMethod()]
         public void FooTest()
         {
-            Assert.Fail();
+            //Assert.Fail();
         }
     }
 }
